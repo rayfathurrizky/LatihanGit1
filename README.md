@@ -52,7 +52,7 @@ DOWNLOAD SOFTWARE Git
   ![6](https://user-images.githubusercontent.com/56881488/67597804-33ef8100-f796-11e9-86b1-df8719b6b6d8.png)
   8.Simpan perubahan kedalam database repository dengan menggunakan perintah "git commit -m"
   ![7](https://user-images.githubusercontent.com/56881488/67597806-33ef8100-f796-11e9-9d27-b43d7d467f4e.png)
-  9.Masuk ke laman GitHub dan buka URL yang sudah di buat di repository GitHub, gunakan perintah "git remote add origin [url]", contoh: git remote add origin https://github.com/alfinabdilah/latihanPhyton.git
+  9.Masuk ke laman GitHub dan buka URL yang sudah di buat di repository GitHub, gunakan perintah "git remote add origin [url]", contoh: git remote add origin https://github.com/rayfathurrizky/LatihanGit1.git
  ![8](https://user-images.githubusercontent.com/56881488/67597807-34881780-f796-11e9-94a1-c9d05c5e92de.png)
   10.Kirim perubahan local repository ke GitHub dengan menggunakan perintah "git push -u origin master"
   ![9](https://user-images.githubusercontent.com/56881488/67597809-34881780-f796-11e9-809d-8ed0b3fa23bb.png)
